@@ -97,8 +97,16 @@ South: ₹391,721.91 sales | ₹46,749.43 profit (📉 Lowest)
 💡 The West region performed the best in both sales and profit. South had the weakest performance.
 
 **5)👥 Segment-wise Performance**
-Consumer Segment: ₹1,161,401.00 sales | ₹134,119.21 profit (📊 Most sales)
-Corporate Segment: ₹706,146.40 sales | ₹91,979.13 profit
+
+Consumer Segment: 
+
+₹1,161,401.00 sales | ₹134,119.21 profit (📊 Most sales)
+Corporate Segment:
+
+₹706,146.40 sales |
+
+₹91,979.13 profit
+
 💡 Consumer segment contributed the most in sales, but the Corporate segment had slightly better profit margins compared to the Home Office.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **✅ Recommendations**
