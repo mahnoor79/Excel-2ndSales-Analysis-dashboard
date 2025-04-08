@@ -34,35 +34,22 @@ Name of the customer.
 **Country:**
 Customer’s country (mostly "United States").
 
-**City / State / Postal Code / Region:**
+**City / State / Postal Code / Region:** Location details.
 
-Location details.
-
-**Product ID:**
-
-The Unique ID of the product.
+**Product ID:**  The Unique ID of the product.
 **Category:**
-
 Product category (Furniture, Office Supplies, Technology).
-**Sub-Category:**
 
-Sub-category within the product category.
+**Sub-Category:** Sub-category within the product category.
 **Product Name:**
 
 Full name of the product.
-**Sales:**
+**Sales:** Total sales amount.
 
-Total sales amount.
-**Quantity:**
-
-Number of items sold.
-**Discount:**
-
-Discount applied to the product
-**Profit:**
-
-Profit earned from the sale.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**Quantity:** Number of items sold.
+**Discount**: Discount applied to the product
+**Profit**:   Profit earned from the sale.
+---------------------------------------------------------------------------------------------------------------------
 **🎯 Objective of the Dashboard**
 1) The dashboard is designed to analyze and visualize the sales performance of a retail superstore. It helps to:
 2) Track overall sales and profits.
