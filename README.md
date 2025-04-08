@@ -52,7 +52,8 @@ Product category (Furniture, Office Supplies, Technology).
 **Discount**:
 
 Discount applied to the product
-**Profit**: 
+
+**Profit**:
 
 Profit earned from the sale.
 ---------------------------------------------------------------------------------------------------------------------
