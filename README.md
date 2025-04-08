@@ -53,10 +53,7 @@ Product category (Furniture, Office Supplies, Technology).
 
 Discount applied to the product
 
-**Profit**:
-
-Profit earned from the sale.
----------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **🎯 Objective of the Dashboard**
 1) The dashboard is designed to analyze and visualize the sales performance of a retail superstore. It helps to:
 2) Track overall sales and profits.
