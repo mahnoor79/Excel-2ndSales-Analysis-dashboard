@@ -88,13 +88,14 @@ South: ₹391,721.91 sales | ₹46,749.43 profit (📉 Lowest)
 Consumer Segment: 
 
 ₹1,161,401.00 sales | ₹134,119.21 profit (📊 Most sales)
+
 Corporate Segment:
 
 ₹706,146.40 sales |
 
 ₹91,979.13 profit |  
 
-*******💡 The consumer segment contributed the most in sales, but the Corporate segment had slightly better profit margins compared to the Home Office.*****
+*****The consumer segment contributed the most in sales, but the Corporate segment had slightly better profit margins compared to the Home Office.*****
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **✅ Recommendations**
 1) **Reduce Excessive Discounts:** Especially on Furniture and Technology where profits are often low or negative.
