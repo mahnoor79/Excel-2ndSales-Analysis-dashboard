@@ -47,9 +47,14 @@ Product category (Furniture, Office Supplies, Technology).
 
 **Sales:** Total sales amount.
 
-**Quantity:**  Number of items sold.
-**Discount**: Discount applied to the product
-**Profit**:   Profit earned from the sale.
+**Quantity**: Number of items sold.
+
+**Discount**:
+
+Discount applied to the product
+**Profit**: 
+
+Profit earned from the sale.
 ---------------------------------------------------------------------------------------------------------------------
 **🎯 Objective of the Dashboard**
 1) The dashboard is designed to analyze and visualize the sales performance of a retail superstore. It helps to:
