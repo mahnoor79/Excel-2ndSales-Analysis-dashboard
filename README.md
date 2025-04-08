@@ -23,19 +23,15 @@ Split from Order Date to enable time-based analysis.
 
 Shipping method selected (e.g., Second Class, Standard Class).
 **Customer ID:**
-
 Unique ID of the customer.
 
 **Customer Name:**
-
 Name of the customer.
 
 **Segment	Type of customer:**
-
 (Consumer, Corporate, Home Office).
 
 **Country:**
-
 Customer’s country (mostly "United States").
 
 **City / State / Postal Code / Region:**
