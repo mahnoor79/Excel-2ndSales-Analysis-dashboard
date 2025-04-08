@@ -5,57 +5,56 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **📊 Column Type Descriptions**
 
-*Row ID:*
+**Row ID:**
 
 Unique row number for each entry (used for indexing).
-*Order ID:*
+**Order ID:**
 
-nique ID for each order placed.
+unique ID for each order placed.
 
 **Order Date:**
 
-*****The Date when the order was placed.*****
+The Date when the order was placed.
 **Year / Month / Day:**
 
-*****Split from Order Date to enable time-based analysis.*****
+Split from Order Date to enable time-based analysis.
 
 **Ship Mode:**
 
-*****Shipping method selected (e.g., Second Class, Standard Class).*****
-
+Shipping method selected (e.g., Second Class, Standard Class).
 **Customer ID:**
 
-*****Unique ID of the customer.*****
+Unique ID of the customer.
 
 **Customer Name:**
 
-*****Name of the customer.*****
+Name of the customer.
 
 **Segment	Type of customer:**
 
-*****(Consumer, Corporate, Home Office).*****
+(Consumer, Corporate, Home Office).
 
 **Country:**
 
-*****Customer’s country (mostly "United States").*****
+Customer’s country (mostly "United States").
 **City / State / Postal Code / Region:*
-*****Location details.*****
+Location details.
 **Product ID:*
-*****The Unique ID of the product.*****
+The Unique ID of the product.
 **Category:*
-*****Product category (Furniture, Office Supplies, Technology).*****
+Product category (Furniture, Office Supplies, Technology).
 **Sub-Category:*
-*****Sub-category within the product category.*****
+Sub-category within the product category.
 **Product Name:*
-*****Full name of the product.*****
+Full name of the product.
 **Sales:*
-*****Total sales amount.*****
+Total sales amount.
 **Quantity:*
-*****Number of items sold.*****
+Number of items sold.
 **Discount:*
-*****Discount applied to the product.*****
+Discount applied to the product
 **Profit:*
-*****Profit earned from the sale.*****
+Profit earned from the sale.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **🎯 Objective of the Dashboard**
 1) The dashboard is designed to analyze and visualize the sales performance of a retail superstore. It helps to:
