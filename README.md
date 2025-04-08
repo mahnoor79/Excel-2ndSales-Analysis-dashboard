@@ -1,4 +1,4 @@
-# Excel-2ndSales-Analysis-dashboard
+# Excel-2nd-Sales-Analysis-dashboard
 
 The sales dashboard (2014-2017) shows profit and quantity growth. Technology leads in sales and profit; Standard Class is the top shipment mode. The Consumer segment dominates sales and quantity. Recommendation: Focus on Technology and Consumer segments, and optimize Standard Class shipments for growth.
 
@@ -37,16 +37,17 @@ Customer’s country (mostly "United States").
 **City / State / Postal Code / Region:** Location details.
 
 **Product ID:**  The Unique ID of the product.
+
 **Category:**
 Product category (Furniture, Office Supplies, Technology).
 
 **Sub-Category:** Sub-category within the product category.
-**Product Name:**
 
-Full name of the product.
+**Product Name:**: Full name of the product.
+
 **Sales:** Total sales amount.
 
-**Quantity:** Number of items sold.
+**Quantity:**  Number of items sold.
 **Discount**: Discount applied to the product
 **Profit**:   Profit earned from the sale.
 ---------------------------------------------------------------------------------------------------------------------
