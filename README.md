@@ -5,12 +5,12 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **📊 Column Type Descriptions**
 
-**Row ID:**
+*Row ID:*
 
-*****Unique row number for each entry (used for indexing).*****
-**Order ID:**
+Unique row number for each entry (used for indexing).
+*Order ID:*
 
-*****Unique ID for each order placed.*****
+nique ID for each order placed.
 
 **Order Date:**
 
