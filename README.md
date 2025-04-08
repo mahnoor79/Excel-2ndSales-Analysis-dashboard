@@ -92,9 +92,9 @@ Corporate Segment:
 
 ₹706,146.40 sales |
 
-₹91,979.13 profit
+₹91,979.13 profit |  
 
-💡 Consumer segment contributed the most in sales, but the Corporate segment had slightly better profit margins compared to the Home Office.
+*******💡 The consumer segment contributed the most in sales, but the Corporate segment had slightly better profit margins compared to the Home Office.*****
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **✅ Recommendations**
 1) **Reduce Excessive Discounts:** Especially on Furniture and Technology where profits are often low or negative.
