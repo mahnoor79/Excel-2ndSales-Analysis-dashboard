@@ -4,41 +4,41 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **📊 Column Type Descriptions**
 
-**Row ID:** 	
+Row ID:
 *****Unique row number for each entry (used for indexing).*****
-**Order ID:** 	
+**Order ID:*
 *****Unique ID for each order placed.*****
-**Order Date:** 
+**Order Date:*
 *****The Date when the order was placed.*****
-**Year / Month / Day:** 
+**Year / Month / Day:*
 *****Split from Order Date to enable time-based analysis.*****
-**Ship Mode:**	
+**Ship Mode:*
 *****Shipping method selected (e.g., Second Class, Standard Class).*****
-**Customer ID:**
+**Customer ID:*
 *****Unique ID of the customer.*****
-**Customer Name:**	
+**Customer Name:*
 *****Name of the customer.*****
-**Segment	Type of customer:** 
+**Segment	Type of customer:*
 *****(Consumer, Corporate, Home Office).*****
-**Country:**
+**Country:*
 *****Customer’s country (mostly "United States").*****
-**City / State / Postal Code / Region:**	
+**City / State / Postal Code / Region:*
 *****Location details.*****
-**Product ID:**	
+**Product ID:*
 *****The Unique ID of the product.*****
-**Category:**
+**Category:*
 *****Product category (Furniture, Office Supplies, Technology).*****
-**Sub-Category:** 	
+**Sub-Category:*
 *****Sub-category within the product category.*****
-**Product Name:** 
+**Product Name:*
 *****Full name of the product.*****
-**Sales:**	
+**Sales:*
 *****Total sales amount.*****
-**Quantity:**	
+**Quantity:*
 *****Number of items sold.*****
-**Discount:**
+**Discount:*
 *****Discount applied to the product.*****
-**Profit:**
+**Profit:*
 *****Profit earned from the sale.*****
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **🎯 Objective of the Dashboard**
