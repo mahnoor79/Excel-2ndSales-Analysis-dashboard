@@ -1,26 +1,42 @@
 # Excel-2ndSales-Analysis-dashboard
+
 ******The sales dashboard (2014-2017) shows profit and quantity growth. Technology leads in sales and profit; Standard Class is the top shipment mode. The Consumer segment dominates sales and quantity. Recommendation: Focus on Technology and Consumer segments, and optimize Standard Class shipments for growth.******
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **📊 Column Type Descriptions**
 
-Row ID:
+**Row ID:**
+
 *****Unique row number for each entry (used for indexing).*****
-**Order ID:*
+**Order ID:**
+
 *****Unique ID for each order placed.*****
-**Order Date:*
+
+**Order Date:**
+
 *****The Date when the order was placed.*****
-**Year / Month / Day:*
+**Year / Month / Day:**
+
 *****Split from Order Date to enable time-based analysis.*****
-**Ship Mode:*
+
+**Ship Mode:**
+
 *****Shipping method selected (e.g., Second Class, Standard Class).*****
-**Customer ID:*
+
+**Customer ID:**
+
 *****Unique ID of the customer.*****
-**Customer Name:*
+
+**Customer Name:**
+
 *****Name of the customer.*****
-**Segment	Type of customer:*
+
+**Segment	Type of customer:**
+
 *****(Consumer, Corporate, Home Office).*****
-**Country:*
+
+**Country:**
+
 *****Customer’s country (mostly "United States").*****
 **City / State / Postal Code / Region:*
 *****Location details.*****
